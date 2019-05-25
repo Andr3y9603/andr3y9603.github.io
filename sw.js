@@ -6,16 +6,16 @@ workbox.precaching.precacheAndRoute([
     "revision": "87424bf7c7fed5f7df9524d7f59645c5"
   },
   {
-    "url": "/_nuxt/7de63c30e731f9dda755.js",
-    "revision": "bdb874bf3b29dfb43685e9aee0b03535"
+    "url": "/_nuxt/754793fcdbe46dc180d0.js",
+    "revision": "aaf4a2c863528b8fca5f378f4c0e7682"
   },
   {
-    "url": "/_nuxt/9ad23ac635becab4aca0.js",
-    "revision": "4a9cb7520d93bd447a8dae54df249488"
+    "url": "/_nuxt/95d94ce8a8aa71ae9f1d.js",
+    "revision": "041ebf24c67aede2856f1088b13907e1"
   },
   {
-    "url": "/_nuxt/ca1a6bc0d53d3f408c0d.js",
-    "revision": "f22fcbd31f171e4ff29a6002a37054c7"
+    "url": "/_nuxt/96852719ae270c040d96.js",
+    "revision": "cf6ff6d1bd821280ffa552d8be753792"
   }
 ], {
   "cacheId": "portofoliu",
